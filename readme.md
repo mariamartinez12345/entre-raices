@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## (Entre Raíces)
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,134 +8,128 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Entre Raíces
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  María Martínez Rodríguez
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : "Entre Raíces" es un videojuego interactivo ambientado en un bosque mágico. En él, criaturas parecidas a anfibios que antes fueron humanos han sido transformadas por un hada. Ahora habitan este entorno natural, donde se alimentan de fresas y exploran su nuevo estilo de vida. El juego mezcla elementos de exploración, plataformas y narrativa fantástica.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Juego interactivo / aventura fantástica / fábula animada.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : 
 
-(insertar imágenes a resolucion de 100px alto)
+
+![escena final](https://github.com/user-attachments/assets/fc2d6f99-89d4-4f5a-83f1-80686f8466cf)
+
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome, Mozilla Firefox, Microsoft Edge, Android
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 1152x650 px (tamaño fijo adaptado a horizontal, no responsivo) 
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
+**Licencia** Licencia CC Reconocimiento Compartir Igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 30/05/2025
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** :
 
-- Github:
-- Twitter
-- Instagram
+- Godot:
 
+![PAN](https://github.com/user-attachments/assets/29f39c7c-9e67-4005-b3f6-861ec5f1be1a)
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+El juego comienza con una introducción donde se explica la transformación de los personajes.
+Los jugadores deben moverse por el bosque, recolectar fresas y evitar obstáculos.
+Si recogen suficientes fresas, desbloquean una pequeña escena de celebración.
+La estética es colorida, con fondos dibujados y música suave.
 
 
 
 ### 2.2. Esquema de navegación 
 
 
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
+![IMG_5407](https://github.com/user-attachments/assets/913ecb0e-9048-47c3-9cc9-80815f97386f)
 
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+Basado en una metodología de UX (experiencia de usuario), orientado a la jugabilidad simple y visual atractiva.
+
 
 
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** 
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+Juegos como Celeste, Gris, Fez
+
+Proyectos narrativos visuales minimalistas
+
+Estética de cuentos de hadas y criaturas mágicas
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este proyecto es interesante porque combina una estética mágica y adorable con una mecánica de juego sencilla pero entretenida. Permite al jugador explorar y relajarse mientras descubre un mundo fantástico.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Niños, adolescentes y amantes de juegos visuales
 
-
-
+- Público general interesado en juegos tranquilos y con diseño artístico cuidado
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
+- Creación de sprite
+- Menús y elementos de navegación (galería, créditos, botones)
+- Diálogos
 - Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Juego
+- Escena final diálogo
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
-
+Detección de colisiones inexacta en algunas frutas 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
-
+La creación de este juego ha sido una oportunidad para aprender sobre diseño de videojuegos, especialmente en Godot. Me ha servido para experimentar con animación, interacción y narrativas simples.
+Me gustaría en el futuro incluir más niveles, mecánicas nuevas y una versión adaptada a móviles.
 
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+Ninguno aplicado directamente, pero se ha investigado sobre diseño de juegos en Godot Engine y experiencia de usuario
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+*  Música: Free Music Archive
+* Imágenes:  Ilustraciones: originales
+* Tipografía: Google Fonts- PoetsenOne-Regular.ttf
 
 **Herramientas utilizadas**
 
-- Hippani Animator 5.1
-- 
+- Godot Engine 4.1
+- Krita
+- Audacity
+- Figma
+- GitHub Pages
 
 
 
